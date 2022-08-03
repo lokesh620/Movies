@@ -1,0 +1,11 @@
+@import '../../common/colors.scss';
+
+.footer{
+    background-color: $secondary-color;
+    justify-content: center;
+    display: flex;
+    height: 72px;
+    align-items: center;
+    color: $font-primary;
+    flex-direction: column;
+}
